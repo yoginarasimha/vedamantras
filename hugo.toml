@@ -1,10 +1,16 @@
 baseURL = 'https://vedamantras.github.io/'
 languageCode = 'de-ch'
-theme = 'anatole'
+theme = ['anatole', 'hugo-embed-pdf-shortcode']
+enableInlineShortcodes = true
+hidePaginator = true
 enableEmoji = true
 
 [params]
 title = 'Veda Mantras'
 author = 'Yogi Narasimha'
 description = 'Übersetzungen von Vedischen Mantras'
+profilePicture = 'images/profile.svg'
 
+mainSections = ["posts"]
+paginate = 5
+summaryLength = 70
