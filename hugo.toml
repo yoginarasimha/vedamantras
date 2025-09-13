@@ -1,0 +1,10 @@
+baseURL = 'https://vedamantras.github.io/'
+languageCode = 'de-ch'
+theme = 'anatole'
+enableEmoji = true
+
+[params]
+title = 'Veda Mantras'
+author = 'Yogi Narasimha'
+description = 'Übersetzungen von Vedischen Mantras'
+
