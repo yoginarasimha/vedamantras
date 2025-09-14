@@ -4,6 +4,6 @@ title = 'Mein Test'
 +++
 
 Das ist genau das.
-[Sarasvatī Prārthana PDF](docs/sarasvatī_prārthana.pdf)
+[Sarasvatī Prārthana PDF](/docs/sarasvatī_prārthana.pdf)
 
-{{< embed-pdf url="docs/sarasvatī_prārthana.pdf#zoom200" >}}
+{{< embed-pdf url="/docs/sarasvatī_prārthana.pdf#zoom200" >}}
