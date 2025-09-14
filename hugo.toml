@@ -1,4 +1,4 @@
-baseURL = 'https://vedamantras.github.io/'
+baseURL = 'https://yoginarasimha.github.io/vedamantras.github.io/'
 languageCode = 'de-ch'
 theme = ['anatole', 'hugo-embed-pdf-shortcode']
 enableInlineShortcodes = true
